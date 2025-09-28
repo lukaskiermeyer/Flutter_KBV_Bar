@@ -18,6 +18,7 @@ class BarSelectionScreen extends StatelessWidget {
       return const CashRegisterScreen();
     }
 
+
     return Scaffold(
       appBar: AppBar(
         // Your new logo is included
